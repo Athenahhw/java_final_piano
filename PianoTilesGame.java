@@ -60,7 +60,7 @@ public class PianoTilesGame extends JPanel implements ActionListener, MouseListe
             drawCountdownScreen(g, g2d);
             return;
         }
-        
+        //jjj
         // 遊戲進行中或結束時的畫面
         // 繪製白色格子背景
         g.setColor(new Color(245, 245, 245));
