@@ -569,7 +569,6 @@ public class PianoTilesGame extends JPanel implements ActionListener, MouseListe
         isGameOver = false;
         repaint();
     }
-
     public void mouseClicked(MouseEvent e) {}
     public void mouseReleased(MouseEvent e) {}
     public void mouseEntered(MouseEvent e) {}
